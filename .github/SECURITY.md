@@ -1,13 +1,18 @@
 ## 🕵️‍♂️ Important Notice for Reporting Security Vulnerabilities
-Please **do not** report security vulnerabilities via public GitHub issues. If you've identified a security issue, please contact us through one of the following secure channels:
 
-1. [Security Advisories on GitHub](https://github.com/nxtbn-com/nxtbn/security/advisories)
-2. Our email: [security@bytenyx.com](mailto:security@bytenyx.com)
-3. **Confidentiality**: We value your privacy. All vulnerability reports will be treated with strict confidentiality. We will not disclose your information without your consent.
-4. **Resolution and Feedback**: We will acknowledge your report and investigate the issue promptly. Once resolved, we will notify you of the outcome. If appropriate, we will credit you for your contribution to the security of nxtbn.
+To report a security vulnerability, **do not** use public GitHub issues. Instead, use one of the following secure channels:
 
+1. **GitHub Security Advisories**: [Submit a report](https://github.com/nxtbn-com/nxtbn/security/advisories)
+2. **Email**: Contact us at [security@bytenyx.com](mailto:security@bytenyx.com)
 
-We don't offer a bounty program, so we can't provide monetary rewards for identifying security issues. However, if you report a security flaw, we'll credit you as the original source when we announce the fix
+### Confidentiality
+We prioritize your privacy. All reports will be treated with the utmost confidentiality, and we will not share your information without your permission.
+
+### Resolution and Feedback
+Upon receiving your report, we will acknowledge it and begin our investigation. You will be notified of our findings and the steps taken to resolve the issue. If appropriate, we will credit you for your contribution in our public announcements.
+
+Please note that we do not currently offer a bounty program and therefore cannot provide monetary rewards for identifying security vulnerabilities. However, we will publicly acknowledge your role as the original source of the report when we announce a fix.
+
 
 # 🔒 Security Guidelines for nxtbn
 
