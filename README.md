@@ -26,7 +26,7 @@ Welcome to **Next Billion Native Commerce (nxtbn)**, the ultimate solution for b
 
 ## 🚀 Getting Started
 Ready to start? Here's what you need to do:
-1. **Clone the Repository**: Get the code from our [GitHub repository](#).
+1. **Clone the Repository**: Get the code from our [GitHub repository](https://github.com/nxtbn-com/nxtbn).
 2. **Install Dependencies**: Follow the installation guide to set up the necessary dependencies.
 3. **Run the Application**: Use our step-by-step instructions to start the nxtbn application on your local environment.
 4. **Explore Documentation**: Learn about the different features and customization options available.
