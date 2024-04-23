@@ -34,10 +34,9 @@ If you discover a security vulnerability in nxtbn, we encourage you to report it
 For more information on securing your nxtbn deployment, refer to the following resources:
 
 - [Django Security Practices](https://docs.djangoproject.com/en/stable/topics/security/)
-- [React Security Practices](https://reactjs.org/docs/security.html)
 - [OWASP Security Guidelines](https://owasp.org/)
 
-If you have any security-related questions or concerns, please contact us at [security@nxtbn.com](mailto:security@bytenyx.com).
+If you have any security-related questions or concerns, please contact us at [security@bytenyx.com](mailto:security@bytenyx.com).
 
 ---
 
