@@ -1,3 +1,12 @@
+# Important Notice for Reporting Security Vulnerabilities
+
+Please **do not** report security vulnerabilities via public GitHub issues. If you've identified a security issue, please contact us through one of the following secure channels:
+
+1. [Security Advisories on GitHub](https://github.com/nxtbn-com/nxtbn/security/advisories)
+2. Our email: [security@bytenyx.com](mailto:security@bytenyx.com)
+
+We don't offer a bounty program, so we can't provide monetary rewards for identifying security issues. However, if you report a security flaw, we'll credit you as the original source when we announce the fix
+
 # 🔒 Security Guidelines for nxtbn
 
 Welcome to the security guidelines for **Next Billion Native Commerce (nxtbn)**. This document outlines best practices for ensuring the security of your nxtbn deployment, as well as procedures for reporting security vulnerabilities.
