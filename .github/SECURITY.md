@@ -1,9 +1,11 @@
-# Important Notice for Reporting Security Vulnerabilities
-
+## 🕵️‍♂️ Important Notice for Reporting Security Vulnerabilities
 Please **do not** report security vulnerabilities via public GitHub issues. If you've identified a security issue, please contact us through one of the following secure channels:
 
 1. [Security Advisories on GitHub](https://github.com/nxtbn-com/nxtbn/security/advisories)
 2. Our email: [security@bytenyx.com](mailto:security@bytenyx.com)
+3. **Confidentiality**: We value your privacy. All vulnerability reports will be treated with strict confidentiality. We will not disclose your information without your consent.
+4. **Resolution and Feedback**: We will acknowledge your report and investigate the issue promptly. Once resolved, we will notify you of the outcome. If appropriate, we will credit you for your contribution to the security of nxtbn.
+
 
 We don't offer a bounty program, so we can't provide monetary rewards for identifying security issues. However, if you report a security flaw, we'll credit you as the original source when we announce the fix
 
@@ -30,14 +32,7 @@ To maintain a secure environment, please follow these best practices:
 
 - **User Education**: Educate your team about security best practices, including how to identify phishing attempts and other common threats.
 
-## 🕵️‍♂️ Reporting Security Vulnerabilities
-If you discover a security vulnerability in nxtbn, we encourage you to report it to our security team for proper investigation and resolution. To report a vulnerability, please follow these steps:
 
-1. **Contact Security Team**: Send an email to [security@bytenyx.com](mailto:security@bytenyx.com) with a detailed description of the vulnerability. Include any relevant information, such as steps to reproduce and potential impact.
-
-2. **Confidentiality**: We value your privacy. All vulnerability reports will be treated with strict confidentiality. We will not disclose your information without your consent.
-
-3. **Resolution and Feedback**: We will acknowledge your report and investigate the issue promptly. Once resolved, we will notify you of the outcome. If appropriate, we will credit you for your contribution to the security of nxtbn.
 
 ## 💡 Additional Resources
 For more information on securing your nxtbn deployment, refer to the following resources:
