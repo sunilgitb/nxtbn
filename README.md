@@ -1,6 +1,6 @@
 # 🌎 Next Billion Native Commerce (nxtbn)
 
-> **⚠️ Warning**: This project is currently in development and not stable. We're working hard to make it better, and we'll release a stable version soon. Your feedback and contributions are welcome to help us improve.
+> **⚠️ Warning**: This project is currently in development and not stable. We're working hard to make it better, and we'll release a stable version soon. Your feedback and contributions are welcome to help us improve. If you have any suggestions or find any issues, please email us at [feedback@bytenyx.com](mailto:feedback@bytenyx.com).
 
 ![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)
 ![Test Coverage](https://img.shields.io/codecov/c/github/nxtbn-com/nxtbn)  <!-- CodeCov test coverage -->
