@@ -1,8 +1,8 @@
 # 🌎 Next Billion Native Commerce (nxtbn)
 
 ![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)
-![Test Coverage](https://img.shields.io/codecov/c/github/yourusername/yourrepo)  <!-- CodeCov test coverage -->
-![Code Quality](https://img.shields.io/codacy/grade/yourusername/yourrepo)  <!-- Codacy or Code Climate code quality -->
+![Test Coverage](https://img.shields.io/codecov/c/github/nxtbn-com/nxtbn)  <!-- CodeCov test coverage -->
+![Code Quality](https://img.shields.io/codacy/grade/nxtbn-com/nxtbn)  <!-- Codacy or Code Climate code quality -->
 ![Python Version](https://img.shields.io/badge/Python-3.7%20%7C%203.8%20%7C%203.9-blue)  <!-- Supported Python versions -->
 ![Django Version](https://img.shields.io/badge/Django-3.1%20%7C%203.2-blue)  <!-- Supported Django versions -->
 ![Last Commit](https://img.shields.io/github.com/nxtbn-com/nxtbn)  <!-- Last commit time -->
