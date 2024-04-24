@@ -32,7 +32,7 @@ Welcome to **Next Billion Native Commerce (nxtbn)**, the ultimate solution for b
   
 ## What Makes Nxtbn Special?
 
-1. **First Django E-Commerce CMS with Theming System**: Nxtbn is the first Django CMS for e-commerce to support a flexible theming system and extension framework, similar to WordPress. You can customize the look and feel of your e-commerce site with ease.
+1. **First Django E-Commerce CMS with Theming System**: Nxtbn is the first Django CMS for e-commerce to support a flexible theming system and extension framework, similar to WordPress-Shopify. You can customize the look and feel of your e-commerce site with ease.
 2. **Built-in Headless REST API**: Nxtbn offers a complete headless REST API solution, enabling integration with various business applications and services. This flexibility opens up endless possibilities for customization and scalability.
 3. **No Technology Lock-ins**: Nxtbn avoids technology lock-ins by offering a modular plugin and template architecture. You can use your favorite frontend technology, whether it's Django templates, React, Vue, or others.
 4. **Webhooks for External Data Integration**: The platform's webhook architecture allows you to connect and share data with external systems, enhancing interoperability and flexibility.
