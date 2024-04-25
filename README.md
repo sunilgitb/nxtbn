@@ -46,7 +46,7 @@ Welcome to **Next Billion Native Commerce (nxtbn)**, the ultimate solution for b
 4. **Webhooks for External Data Integration**: The platform's webhook architecture allows you to connect and share data with external systems, enhancing interoperability and flexibility.
 5. **Highly Scalable Architecture**: Whether you're running a small business or a large enterprise, Nxtbn's architecture is designed to scale. You can use it as a high-level boilerplate while accommodating unique business cases.
 6. **AI-Driven Content Management System**: Nxtbn incorporates AI-driven features for rich content management, enabling advanced customization and automation in your e-commerce experience.
-7. **Cloud-Native and Multi-Channel**: The platform is designed for the cloud and supports multiple channels, multi-language, multi-warehouse, and multi-currency operations by default.
+7. **Cloud-Native and Multi-Channel**: The platform is designed for the cloud and supports multiple channels, multi-language, and multi-currency operations by default.
 8. **Open Source and Free to Use**: Nxtbn is open-source, allowing you to use the full platform without commercial limitations. This means you get enterprise-grade features without the enterprise price tag.
 
 ## 💡 Why nxtbn?
