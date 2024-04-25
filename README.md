@@ -15,6 +15,11 @@
 ![Maintenance](https://img.shields.io/maintenance/yes/2024)  <!-- 'no' for unmaintained -->
 ![Version](https://img.shields.io/github/v/tag/nxtbn-com/nxtbn)
 
+![Snyk Vulnerabilities](https://img.shields.io/snyk/vulnerabilities/github/nxtbn-com/nxtbn)
+![Codecov](https://codecov.io/gh/nxtbn-com/nxtbn/branch/main/graph/badge.svg)
+![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=nxtbn-com_nxtbn&metric=alert_status)
+
+
 
 Welcome to **Next Billion Native Commerce (nxtbn)**, the ultimate solution for businesses looking for a flexible, scalable, and open-source E-commerce CMS. Built with Django and ReactJS, nxtbn stands out as the leading choice for enterprises seeking scalability and adaptability. 🚀
 
