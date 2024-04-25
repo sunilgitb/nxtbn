@@ -2,7 +2,7 @@
 from django.test import  TestCase
 from rest_framework.test import APIClient
 
-from users.tests import UserFactory
+from nxtbn.users.tests import UserFactory
 
 
 from django.contrib.auth.hashers import make_password
