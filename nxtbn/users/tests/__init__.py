@@ -1,7 +1,7 @@
 import factory
 import random
 
-from users.models import User
+from nxtbn.users.models import User
 
 class UserFactory(factory.django.DjangoModelFactory):
     class Meta:
